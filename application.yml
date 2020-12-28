@@ -1,2 +1,4 @@
 server:
   port:154
+greeting:
+  message: Hello World!
